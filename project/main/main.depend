@@ -1,0 +1,28 @@
+# depslib dependency file v1.0
+1547913879 source:/home/michael/project/main/main.cpp
+	<iostream>
+	"michael.hpp"
+	"agata.cpp"
+	"michal.cpp"
+	"dominik.cpp"
+
+1547913879 /home/michael/project/main/michael.hpp
+
+1547913879 source:/home/michael/project/main/michael.cpp
+	<iostream>
+	"michael.hpp"
+
+1547911958 /home/michael/project/main/agata.hpp
+
+1547913731 /home/michael/project/main/michael.cpp
+	<iostream>
+
+1547913674 /home/michael/project/main/agata.cpp
+	<iostream>
+
+1547913674 /home/michael/project/main/michal.cpp
+	<iostream>
+
+1547913674 /home/michael/project/main/dominik.cpp
+	<iostream>
+

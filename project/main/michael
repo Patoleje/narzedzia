@@ -1,0 +1,3 @@
+#include "michael.hpp"
+
+void michael(){cout << "Michael Szychulski";}
