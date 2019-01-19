@@ -4,5 +4,5 @@
 using namespace std;
 void michael()
 {
-cout << "Michael Szychulski - commit 4";
+cout << "Michael Szychulski - commit 5";
 }
